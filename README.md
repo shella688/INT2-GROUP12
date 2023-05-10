@@ -8,4 +8,5 @@ PyTorch and Google Colab is used.
 
 
 The classification accuracy on the training set of approx 99.5% 
+
 The validation accuracy of approx 59.4%. 
